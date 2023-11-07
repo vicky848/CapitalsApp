@@ -1,0 +1,45 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: ;
+  align-items: center;
+  padding-top: 34px;
+}
+
+.capital-container {
+  background-color: #f8fafc;
+  height: 300px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  margin-top: 100px;
+}
+.heading {
+  color: #323f4b;
+  font-size: 24px;
+  font-weight: 900;
+  font-family: 'Roboto';
+  padding: 20px;
+}
+
+.select-capital {
+  height: 28px;
+  width: 136px;
+  border-width: 0.1px;
+
+  margin: 10px;
+}
+.description {
+  font-size: 16px;
+  font-family: 'Roboto';
+  color: #000000;
+}
+.select-container {
+  display: flex;
+}
